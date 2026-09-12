@@ -1,0 +1,115 @@
+id_producto,nombre,descripcion,precio_vigente,existencia,CATEGORIA_id_categoria,MARCA_id_marca
+1,Agua pura Original,"Agua pura presentacion original, categoria Bebidas",191.82,1203,1,4
+2,Agua pura Especial,"Agua pura presentacion especial, categoria Bebidas",116.65,2208,1,3
+3,Gaseosa Premium,"Gaseosa presentacion premium, categoria Bebidas",177.6,1159,1,9
+4,Gaseosa Extra,"Gaseosa presentacion extra, categoria Bebidas",44.94,1335,1,7
+5,Jugo de naranja Clasico,"Jugo de naranja presentacion clasico, categoria Bebidas",58.11,2120,1,9
+6,Jugo de naranja Light,"Jugo de naranja presentacion light, categoria Bebidas",104.28,1681,1,11
+7,Cafe molido Familiar,"Cafe molido presentacion familiar, categoria Bebidas",88.61,1618,1,14
+8,Cafe molido Familiar 8,"Cafe molido presentacion familiar, categoria Bebidas",141.23,2088,1,13
+9,Te helado Familiar,"Te helado presentacion familiar, categoria Bebidas",175.72,1394,1,8
+10,Te helado Familiar 10,"Te helado presentacion familiar, categoria Bebidas",184.34,1933,1,3
+11,Bebida energetica Especial,"Bebida energetica presentacion especial, categoria Bebidas",44.45,2377,1,12
+12,Bebida energetica Clasico,"Bebida energetica presentacion clasico, categoria Bebidas",244.66,1463,1,6
+13,Agua mineral Especial,"Agua mineral presentacion especial, categoria Bebidas",5.33,1143,1,4
+14,Agua mineral Premium,"Agua mineral presentacion premium, categoria Bebidas",26.66,1600,1,4
+15,Nectar de durazno Extra,"Nectar de durazno presentacion extra, categoria Bebidas",40.51,1923,1,5
+16,Nectar de durazno Clasico,"Nectar de durazno presentacion clasico, categoria Bebidas",238.63,1239,1,4
+17,Papas fritas Light,"Papas fritas presentacion light, categoria Snacks",112.5,1848,2,11
+18,Papas fritas Extra,"Papas fritas presentacion extra, categoria Snacks",20.26,2363,2,9
+19,Tortillas de maiz frito Especial,"Tortillas de maiz frito presentacion especial, categoria Snacks",59.09,2271,2,7
+20,Tortillas de maiz frito Especial 20,"Tortillas de maiz frito presentacion especial, categoria Snacks",24.06,2838,2,15
+21,Mani salado Clasico,"Mani salado presentacion clasico, categoria Snacks",13.54,1665,2,15
+22,Mani salado Extra,"Mani salado presentacion extra, categoria Snacks",100.84,1771,2,1
+23,Galletas saladas Original,"Galletas saladas presentacion original, categoria Snacks",249.03,2633,2,2
+24,Galletas saladas Original 24,"Galletas saladas presentacion original, categoria Snacks",160.02,1287,2,14
+25,Palomitas Familiar,"Palomitas presentacion familiar, categoria Snacks",135.74,1750,2,10
+26,Palomitas Tradicional,"Palomitas presentacion tradicional, categoria Snacks",182.37,2112,2,7
+27,Frituras de platano Premium,"Frituras de platano presentacion premium, categoria Snacks",151.21,2249,2,6
+28,Frituras de platano Original,"Frituras de platano presentacion original, categoria Snacks",242.74,1354,2,9
+29,Leche entera Light,"Leche entera presentacion light, categoria Lacteos",210.49,2340,3,7
+30,Leche entera Tradicional,"Leche entera presentacion tradicional, categoria Lacteos",163.39,1490,3,9
+31,Yogurt natural Extra,"Yogurt natural presentacion extra, categoria Lacteos",113.97,2321,3,6
+32,Yogurt natural Especial,"Yogurt natural presentacion especial, categoria Lacteos",54.3,1901,3,8
+33,Queso fresco Clasico,"Queso fresco presentacion clasico, categoria Lacteos",166.01,1099,3,15
+34,Queso fresco Familiar,"Queso fresco presentacion familiar, categoria Lacteos",203.95,1244,3,9
+35,Crema Familiar,"Crema presentacion familiar, categoria Lacteos",77.28,1690,3,8
+36,Crema Premium,"Crema presentacion premium, categoria Lacteos",12.55,1456,3,4
+37,Mantequilla Original,"Mantequilla presentacion original, categoria Lacteos",153.73,1965,3,9
+38,Mantequilla Familiar,"Mantequilla presentacion familiar, categoria Lacteos",132.43,1525,3,4
+39,Leche deslactosada Familiar,"Leche deslactosada presentacion familiar, categoria Lacteos",61.2,1920,3,3
+40,Leche deslactosada Premium,"Leche deslactosada presentacion premium, categoria Lacteos",45.65,1844,3,6
+41,Pan de molde Light,"Pan de molde presentacion light, categoria Panaderia",13.06,2279,4,11
+42,Pan de molde Extra,"Pan de molde presentacion extra, categoria Panaderia",63.4,1542,4,7
+43,Pan dulce Premium,"Pan dulce presentacion premium, categoria Panaderia",4.16,2403,4,12
+44,Pan dulce Especial,"Pan dulce presentacion especial, categoria Panaderia",43.08,2050,4,8
+45,Tortillas de harina Light,"Tortillas de harina presentacion light, categoria Panaderia",249.68,1624,4,8
+46,Tortillas de harina Familiar,"Tortillas de harina presentacion familiar, categoria Panaderia",197.36,2559,4,10
+47,Croissant Tradicional,"Croissant presentacion tradicional, categoria Panaderia",92.67,2076,4,11
+48,Croissant Light,"Croissant presentacion light, categoria Panaderia",103.71,1644,4,1
+49,Pan integral Familiar,"Pan integral presentacion familiar, categoria Panaderia",148.09,2131,4,1
+50,Pan integral Familiar 50,"Pan integral presentacion familiar, categoria Panaderia",133.42,1595,4,10
+51,Detergente en polvo Clasico,"Detergente en polvo presentacion clasico, categoria Limpieza del hogar",187.18,2533,5,3
+52,Detergente en polvo Familiar,"Detergente en polvo presentacion familiar, categoria Limpieza del hogar",21.27,1496,5,15
+53,Jabon liquido para trastos Familiar,"Jabon liquido para trastos presentacion familiar, categoria Limpieza del hogar",26.36,2085,5,1
+54,Jabon liquido para trastos Familiar 54,"Jabon liquido para trastos presentacion familiar, categoria Limpieza del hogar",75.46,2174,5,5
+55,Cloro Tradicional,"Cloro presentacion tradicional, categoria Limpieza del hogar",211.35,2020,5,9
+56,Cloro Clasico,"Cloro presentacion clasico, categoria Limpieza del hogar",230.33,2267,5,10
+57,Desinfectante multiusos Original,"Desinfectante multiusos presentacion original, categoria Limpieza del hogar",90.68,1216,5,15
+58,Desinfectante multiusos Light,"Desinfectante multiusos presentacion light, categoria Limpieza del hogar",244.44,2208,5,2
+59,Suavizante de telas Especial,"Suavizante de telas presentacion especial, categoria Limpieza del hogar",73.84,1720,5,8
+60,Suavizante de telas Especial 60,"Suavizante de telas presentacion especial, categoria Limpieza del hogar",154.98,1583,5,14
+61,Jabon de baño Light,"Jabon de baño presentacion light, categoria Cuidado personal",53.0,2988,6,3
+62,Jabon de baño Tradicional,"Jabon de baño presentacion tradicional, categoria Cuidado personal",237.22,1637,6,14
+63,Shampoo Familiar,"Shampoo presentacion familiar, categoria Cuidado personal",147.31,2403,6,10
+64,Shampoo Familiar 64,"Shampoo presentacion familiar, categoria Cuidado personal",69.2,2160,6,13
+65,Pasta dental Original,"Pasta dental presentacion original, categoria Cuidado personal",104.44,2568,6,10
+66,Pasta dental Extra,"Pasta dental presentacion extra, categoria Cuidado personal",30.41,1493,6,3
+67,Desodorante Especial,"Desodorante presentacion especial, categoria Cuidado personal",22.04,2200,6,15
+68,Desodorante Premium,"Desodorante presentacion premium, categoria Cuidado personal",78.68,2760,6,10
+69,Papel higienico Tradicional,"Papel higienico presentacion tradicional, categoria Cuidado personal",242.44,1958,6,4
+70,Papel higienico Familiar,"Papel higienico presentacion familiar, categoria Cuidado personal",204.76,2297,6,7
+71,Arroz Clasico,"Arroz presentacion clasico, categoria Abarrotes",246.86,2108,7,2
+72,Arroz Tradicional,"Arroz presentacion tradicional, categoria Abarrotes",222.81,2877,7,4
+73,Frijol negro Familiar,"Frijol negro presentacion familiar, categoria Abarrotes",206.7,1627,7,14
+74,Frijol negro Premium,"Frijol negro presentacion premium, categoria Abarrotes",147.93,2577,7,10
+75,Azucar Especial,"Azucar presentacion especial, categoria Abarrotes",177.8,1532,7,3
+76,Azucar Clasico,"Azucar presentacion clasico, categoria Abarrotes",247.37,2134,7,15
+77,Sal Premium,"Sal presentacion premium, categoria Abarrotes",142.54,2358,7,15
+78,Sal Especial,"Sal presentacion especial, categoria Abarrotes",191.91,1731,7,2
+79,Aceite vegetal Familiar,"Aceite vegetal presentacion familiar, categoria Abarrotes",196.05,1461,7,11
+80,Aceite vegetal Clasico,"Aceite vegetal presentacion clasico, categoria Abarrotes",241.21,1929,7,15
+81,Harina de trigo Tradicional,"Harina de trigo presentacion tradicional, categoria Abarrotes",118.04,1743,7,15
+82,Harina de trigo Tradicional 82,"Harina de trigo presentacion tradicional, categoria Abarrotes",117.08,1532,7,9
+83,Pasta para sopa Clasico,"Pasta para sopa presentacion clasico, categoria Abarrotes",150.71,1714,7,6
+84,Pasta para sopa Tradicional,"Pasta para sopa presentacion tradicional, categoria Abarrotes",10.68,1676,7,12
+85,Pizza congelada Especial,"Pizza congelada presentacion especial, categoria Congelados",33.19,2582,8,4
+86,Pizza congelada Tradicional,"Pizza congelada presentacion tradicional, categoria Congelados",20.67,1654,8,13
+87,Vegetales mixtos congelados Premium,"Vegetales mixtos congelados presentacion premium, categoria Congelados",164.87,1236,8,6
+88,Vegetales mixtos congelados Familiar,"Vegetales mixtos congelados presentacion familiar, categoria Congelados",251.29,1459,8,7
+89,Helado de vainilla Especial,"Helado de vainilla presentacion especial, categoria Congelados",174.13,1523,8,5
+90,Helado de vainilla Light,"Helado de vainilla presentacion light, categoria Congelados",61.1,2976,8,13
+91,Nuggets de pollo Premium,"Nuggets de pollo presentacion premium, categoria Congelados",83.34,2387,8,15
+92,Nuggets de pollo Tradicional,"Nuggets de pollo presentacion tradicional, categoria Congelados",242.04,1995,8,5
+93,Papas congeladas Light,"Papas congeladas presentacion light, categoria Congelados",130.92,2207,8,5
+94,Papas congeladas Clasico,"Papas congeladas presentacion clasico, categoria Congelados",6.51,1741,8,1
+95,Audifonos Premium,"Audifonos presentacion premium, categoria Electronica",212.47,1940,9,10
+96,Audifonos Clasico,"Audifonos presentacion clasico, categoria Electronica",65.56,1618,9,9
+97,Cargador USB Light,"Cargador USB presentacion light, categoria Electronica",27.1,1883,9,7
+98,Cargador USB Extra,"Cargador USB presentacion extra, categoria Electronica",171.45,1956,9,12
+99,Power bank Extra,"Power bank presentacion extra, categoria Electronica",209.91,1275,9,7
+100,Power bank Familiar,"Power bank presentacion familiar, categoria Electronica",23.02,2287,9,2
+101,Bocina portatil Original,"Bocina portatil presentacion original, categoria Electronica",238.18,1654,9,7
+102,Bocina portatil Tradicional,"Bocina portatil presentacion tradicional, categoria Electronica",123.34,1664,9,5
+103,Cable HDMI Extra,"Cable HDMI presentacion extra, categoria Electronica",94.26,2008,9,10
+104,Cable HDMI Original,"Cable HDMI presentacion original, categoria Electronica",230.26,1881,9,10
+105,Escoba Tradicional,"Escoba presentacion tradicional, categoria Articulos de hogar",70.32,1630,10,11
+106,Escoba Light,"Escoba presentacion light, categoria Articulos de hogar",242.61,1950,10,13
+107,Toalla de cocina Especial,"Toalla de cocina presentacion especial, categoria Articulos de hogar",174.23,1887,10,7
+108,Toalla de cocina Extra,"Toalla de cocina presentacion extra, categoria Articulos de hogar",228.65,2485,10,3
+109,Vela aromatica Especial,"Vela aromatica presentacion especial, categoria Articulos de hogar",128.66,1519,10,9
+110,Vela aromatica Original,"Vela aromatica presentacion original, categoria Articulos de hogar",53.03,1401,10,5
+111,Bolsas de basura Extra,"Bolsas de basura presentacion extra, categoria Articulos de hogar",185.82,1692,10,10
+112,Bolsas de basura Tradicional,"Bolsas de basura presentacion tradicional, categoria Articulos de hogar",227.04,1545,10,13
+113,Foco LED Familiar,"Foco LED presentacion familiar, categoria Articulos de hogar",55.39,1645,10,12
+114,Foco LED Premium,"Foco LED presentacion premium, categoria Articulos de hogar",53.87,1247,10,14

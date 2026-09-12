@@ -1,0 +1,81 @@
+id_municipio,nombre,DEPARTAMENTO_id_departamento
+1,Guatemala,1
+2,Mixco,1
+3,Villa Nueva,1
+4,San Jose Pinula,1
+5,Antigua Guatemala,2
+6,Ciudad Vieja,2
+7,Jocotenango,2
+8,Chimaltenango,3
+9,Tecpan Guatemala,3
+10,San Martin Jilotepeque,3
+11,Escuintla,4
+12,Puerto San Jose,4
+13,Santa Lucia Cotzumalguapa,4
+14,Cuilapa,5
+15,Barberena,5
+16,Chiquimulilla,5
+17,Solola,6
+18,Panajachel,6
+19,Santiago Atitlan,6
+20,Totonicapan,7
+21,San Cristobal Totonicapan,7
+22,Quetzaltenango,8
+23,Coatepeque,8
+24,Salcaja,8
+25,Mazatenango,9
+26,San Antonio Suchitepequez,9
+27,Retalhuleu,10
+28,Champerico,10
+29,San Marcos,11
+30,Malacatan,11
+31,Tacana,11
+32,Huehuetenango,12
+33,Chiantla,12
+34,La Democracia,12
+35,Santa Cruz del Quiche,13
+36,Chichicastenango,13
+37,Salama,14
+38,Rabinal,14
+39,Coban,15
+40,San Pedro Carcha,15
+41,Fray Bartolome de las Casas,15
+42,Flores,16
+43,San Benito,16
+44,Santa Elena,16
+45,Puerto Barrios,17
+46,Morales,17
+47,Livingston,17
+48,Zacapa,18
+49,Rio Hondo,18
+50,Chiquimula,19
+51,Esquipulas,19
+52,Jalapa,20
+53,San Pedro Pinula,20
+54,Jutiapa,21
+55,Asuncion Mita,21
+56,Guastatoya,22
+57,Sanarate,22
+58,Coyoacan,23
+59,Iztapalapa,23
+60,Benito Juarez,23
+61,Guadalajara,24
+62,Zapopan,24
+63,Tlaquepaque,24
+64,Monterrey,25
+65,San Nicolas de los Garza,25
+66,Toluca,26
+67,Naucalpan,26
+68,Puebla de Zaragoza,27
+69,Cholula,27
+70,San Salvador,28
+71,Soyapango,28
+72,Mejicanos,28
+73,Santa Tecla,29
+74,Antiguo Cuscatlan,29
+75,Santa Ana,30
+76,Chalchuapa,30
+77,San Miguel,31
+78,Chinameca,31
+79,Sonsonate,32
+80,Izalco,32
