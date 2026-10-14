@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# Env (credenciales)
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+build/
+
+# IDE
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#bruno temporal
+Proyecto_2_BASES1/

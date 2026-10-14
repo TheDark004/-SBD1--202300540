@@ -1,0 +1,21 @@
+id_tienda,nombre,direccion,telefono,MUNICIPIO_id_municipio,TIPO_TIENDA_id_tipo_tienda
+1,Comercial La Estrella Zona 1,18 Avenida 7-38 zona 15,24335942,41,1
+2,Comercial La Estrella Mixco,6 Avenida 12-64 zona 11,21109031,8,3
+3,Comercial La Estrella Villa Nueva,7 Avenida 13-53 zona 4,23608513,2,3
+4,Comercial La Estrella Antigua,4 Avenida 6-54 zona 20,27374122,48,1
+5,Comercial La Estrella Chimaltenango,15 Avenida 9-25 zona 13,21728977,18,3
+6,Comercial La Estrella Escuintla,20 Avenida 15-56 zona 19,25918715,16,1
+7,Comercial La Estrella Xela,2 Avenida 11-39 zona 10,22166941,15,2
+8,Comercial La Estrella Coatepeque,4 Avenida 7-45 zona 15,24905582,9,1
+9,Comercial La Estrella Mazatenango,12 Avenida 6-36 zona 9,23728882,54,3
+10,Comercial La Estrella Huehuetenango,18 Avenida 12-41 zona 6,23871230,7,1
+11,Comercial La Estrella Coban,9 Avenida 15-91 zona 18,27366205,44,4
+12,Comercial La Estrella Peten,2 Avenida 4-14 zona 11,26440561,35,2
+13,Comercial La Estrella Puerto Barrios,3 Avenida 4-82 zona 11,25491946,6,4
+14,Comercial La Estrella Zacapa,13 Avenida 15-92 zona 15,29375710,38,2
+15,Comercial La Estrella Jutiapa,5 Avenida 4-81 zona 18,25443951,28,2
+16,Comercial La Estrella Ciudad de Mexico,19 Avenida 7-56 zona 8,28187926,58,3
+17,Comercial La Estrella Guadalajara,16 Avenida 2-16 zona 4,29548432,69,2
+18,Comercial La Estrella Monterrey,14 Avenida 10-18 zona 13,23684052,59,2
+19,Comercial La Estrella San Salvador,17 Avenida 5-80 zona 1,28852574,73,4
+20,Comercial La Estrella Santa Ana,11 Avenida 2-47 zona 14,25476583,80,1
