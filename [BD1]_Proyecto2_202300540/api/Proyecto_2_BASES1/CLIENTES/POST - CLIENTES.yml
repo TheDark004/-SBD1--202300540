@@ -1,0 +1,29 @@
+info:
+  name: POST - CLIENTES
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/api/clientes
+  body:
+    type: json
+    data: |-
+      {
+        "id_cliente": 9001,
+        "nombres": "Cliente",
+        "apellidos": "Prueba",
+        "numero_identificacion": "TEST-9001",
+        "telefono": "55550000",
+        "correo": "prueba9001@test.com",
+        "direccion": "Zona 1, Ciudad de Guatemala",
+        "TIPO_IDENT_id_tipo_ident": 1,
+        "MUNICIPIO_id_municipio": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

@@ -1,0 +1,15 @@
+info:
+  name: DELETE /api/tiendas/9001
+  type: http
+  seq: 1
+
+http:
+  method: DELETE
+  url: http://localhost:3000/api/tiendas/9001
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

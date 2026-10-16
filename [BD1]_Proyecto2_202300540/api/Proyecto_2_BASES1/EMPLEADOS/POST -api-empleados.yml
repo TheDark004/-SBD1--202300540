@@ -1,0 +1,28 @@
+info:
+  name: POST /api/empleados
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/api/empleados
+  body:
+    type: json
+    data: |-
+      {
+        "id_empleado": 9001,
+        "nombres": "Empleado",
+        "apellidos": "Prueba",
+        "correo": "empleado9001@test.com",
+        "telefono": "44440000",
+        "fecha_contratacion": "2026-01-15",
+        "TIENDA_id_tienda": 1,
+        "CARGO_id_cargo": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

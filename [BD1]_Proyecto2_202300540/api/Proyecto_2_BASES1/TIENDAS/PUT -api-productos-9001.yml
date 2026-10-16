@@ -1,0 +1,25 @@
+info:
+  name: PUT /api/tiendas/9001
+  type: http
+  seq: 1
+
+http:
+  method: PUT
+  url: http://localhost:3000/api/tiendas/9001
+  body:
+    type: json
+    data: |-
+      {
+        "nombre": "Tienda Prueba 2",
+        "direccion": "Zona 10, Ciudad de Guatemala",
+        "telefono": "22220000",
+        "MUNICIPIO_id_municipio": 1,
+        "TIPO_TIENDA_id_tipo_tienda": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

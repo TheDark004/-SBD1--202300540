@@ -1,0 +1,27 @@
+info:
+  name: POST /api/productos
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/api/productos/
+  body:
+    type: json
+    data: |-
+      {
+        "id_producto": 9001,
+        "nombre": "Producto Prueba",
+        "descripcion": "Producto creado para pruebas",
+        "precio_vigente": 25.00,
+        "existencia": 10,
+        "CATEGORIA_id_categoria": 1,
+        "MARCA_id_marca": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

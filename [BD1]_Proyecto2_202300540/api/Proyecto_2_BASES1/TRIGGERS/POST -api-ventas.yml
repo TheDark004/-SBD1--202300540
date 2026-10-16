@@ -1,0 +1,28 @@
+info:
+  name: POST /api/ventas
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/api/ventas
+  body:
+    type: json
+    data: |-
+      {
+        "id_venta": 9001,
+        "TIENDA_id_tienda": 1,
+        "CLIENTE_id_cliente": 1,
+        "EMPLEADO_id_empleado": 1,
+        "ESTADO_VENTA_id_estado_venta": 1,
+        "detalles": [
+          { "id_detalle_venta": 9001, "PRODUCTO_id_producto": 9001, "cantidad": 3, "precio_unitario": 25.00 }
+        ]
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

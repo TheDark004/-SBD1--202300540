@@ -25,8 +25,22 @@ app.use(cors());
 app.use(express.json());
 app.use(morgan('dev'));
 
-//clientes
+//CLIENTES
 app.use('/api/clientes', clientesRoutes);
+//PRODUCTOS
+app.use('/api/productos', productosRoutes);
+//TIENDAS
+app.use('/api/tiendas', tiendasRoutes);
+//EMPLEADO
+app.use('/api/empleados', empleadosRoutes);
+//VENTAS
+app.use('/api/ventas', ventasRoutes);   
+//PAGOS
+app.use('/api/pagos', pagosRoutes);
+//DETALLES
+app.use('/api/detalles', detallesRoutes);
+//REPORTES
+app.use('/api/reportes', reportesRoutes);   
 
 
 app.get('/', (req,res) =>{

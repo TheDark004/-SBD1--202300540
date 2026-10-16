@@ -1,0 +1,18 @@
+info:
+  name: POST /api/productos 2
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/api/productos
+  body:
+    type: json
+    data: '{ "id_producto": 9002, "nombre": "Producto Trigger B", "descripcion": "Prueba stock insuficiente", "precio_vigente": 10.00, "existencia": 5, "CATEGORIA_id_categoria": 1, "MARCA_id_marca": 1 }'
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

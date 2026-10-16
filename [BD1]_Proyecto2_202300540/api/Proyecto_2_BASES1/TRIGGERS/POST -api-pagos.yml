@@ -1,0 +1,18 @@
+info:
+  name: POST /api/pagos
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/api/pagos
+  body:
+    type: json
+    data: '{ "id_pago": 9002, "monto": 45.00, "VENTA_id_venta": 9001, "METODO_PAGO_id_metodo_pago": 1 }'
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

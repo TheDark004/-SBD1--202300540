@@ -28,13 +28,13 @@
 - Se revisaron y ajustaron los atributos marcados por defecto como obligatorios en Data Modeler, dejando como opcionales `CLIENTE.correo`, `CLIENTE.telefono`, `TIENDA.telefono`, `EMPLEADO.telefono` y `PRODUCTO.descripcion`.
 
 ### MODELADO CONCEPTUAL
-![](/docs/images/CONCEPTUAL_P1.png)
+![](./images/CONCEPTUAL_P1.png)
 
 ### MODELADO LOGICO
-![](/docs/images/Logical_P1.png)
+![](./images/Logical_P1.png)
 
 ### MODELADO RELACIONAL
-![](/docs/images/Relational_P1.png)
+![](./images/Relational_P1.png)
 
 ---
 

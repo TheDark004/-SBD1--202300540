@@ -1,0 +1,18 @@
+info:
+  name: POST /api/detalles
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/api/detalles
+  body:
+    type: json
+    data: '{ "id_detalle_venta": 9002, "cantidad": 100, "precio_unitario": 10.00, "VENTA_id_venta": 9001, "PRODUCTO_id_producto": 9002 }'
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

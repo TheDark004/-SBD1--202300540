@@ -1,0 +1,28 @@
+info:
+  name: PUT - CLIENTES
+  type: http
+  seq: 1
+
+http:
+  method: PUT
+  url: http://localhost:3000/api/clientes/9001
+  body:
+    type: json
+    data: |-
+      {
+        "nombres": "Prueba put",
+        "apellidos": "Prueba",
+        "numero_identificacion": "TEST-9001",
+        "telefono": "56550000",
+        "correo": "prueba9001@test.com",
+        "direccion": "Zona 1, Ciudad de Guatemala",
+        "TIPO_IDENT_id_tipo_ident": 1,
+        "MUNICIPIO_id_municipio": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

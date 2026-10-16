@@ -1,0 +1,26 @@
+info:
+  name: PUT /api/productos/9001
+  type: http
+  seq: 1
+
+http:
+  method: PUT
+  url: http://localhost:3000/api/productos/9001
+  body:
+    type: json
+    data: |-
+      {
+        "nombre": "Producto Prueba",
+        "descripcion": "Producto creado para pruebas",
+        "precio_vigente": 25.00,
+        "existencia": 20,
+        "CATEGORIA_id_categoria": 1,
+        "MARCA_id_marca": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

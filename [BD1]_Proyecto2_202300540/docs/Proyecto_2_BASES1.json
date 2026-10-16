@@ -1,0 +1,1747 @@
+{
+  "version": "1",
+  "name": "Proyecto_2_BASES1",
+  "items": [
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/VENTAS",
+      "name": "VENTAS",
+      "filename": "VENTAS",
+      "seq": 1,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "DELETE /api/ventas/9101",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "delete",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "DELETE -api-ventas-9101.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/VENTAS/DELETE -api-ventas-9101.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00021839141845703125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/ventas/1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-ventas-1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/VENTAS/GET -api-ventas-1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00020694732666015625,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/ventas",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-ventas.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/VENTAS/GET -api-ventas.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00020313262939453125,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/ventas",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-ventas.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/VENTAS/POST -api-ventas.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0004138946533203125,
+          "depth": 2
+        },
+        {
+          "name": "PUT /api/ventas/9101",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "put",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "PUT -api-ventas-9101.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/VENTAS/PUT -api-ventas-9101.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00043487548828125,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "VENTAS",
+          "seq": 1
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    },
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TIENDAS",
+      "name": "TIENDAS",
+      "filename": "TIENDAS",
+      "seq": 3,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "DELETE /api/tiendas/9001",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "delete",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "DELETE -api-productos-9001.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TIENDAS/DELETE -api-productos-9001.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00022029876708984375,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/tiendas/1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-productos-1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TIENDAS/GET -api-productos-1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00020885467529296875,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/tiendas",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-productos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TIENDAS/GET -api-productos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00023937225341796875,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/tiendas",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-productos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TIENDAS/POST -api-productos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0004711151123046875,
+          "depth": 2
+        },
+        {
+          "name": "PUT /api/tiendas/9001",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "put",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "PUT -api-productos-9001.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TIENDAS/PUT -api-productos-9001.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.000453948974609375,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "TIENDAS",
+          "seq": 3
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    },
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/CLIENTES",
+      "name": "CLIENTES",
+      "filename": "CLIENTES",
+      "seq": 1,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "DELETE",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "delete",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "DELETE.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/CLIENTES/DELETE.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00019550323486328125,
+          "depth": 2
+        },
+        {
+          "name": "GET - CLIENTES - ID",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET - CLIENTES - ID.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/CLIENTES/GET - CLIENTES - ID.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.000202178955078125,
+          "depth": 2
+        },
+        {
+          "name": "GET - CLIENTES",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET - CLIENTES.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/CLIENTES/GET - CLIENTES.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0002040863037109375,
+          "depth": 2
+        },
+        {
+          "name": "POST - CLIENTES",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST - CLIENTES.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/CLIENTES/POST - CLIENTES.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0005750656127929688,
+          "depth": 2
+        },
+        {
+          "name": "PUT - CLIENTES",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "put",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "PUT - CLIENTES.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/CLIENTES/PUT - CLIENTES.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0005540847778320312,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "CLIENTES",
+          "seq": 1
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    },
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/REPORTES",
+      "name": "REPORTES",
+      "filename": "REPORTES",
+      "seq": 1,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "GET /api/reportes/saldos-pendientes",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-reportes-saldos-pendientes.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/REPORTES/GET -api-reportes-saldos-pendientes.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00024127960205078125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/reportes/top-productos",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-reportes-top-productos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/REPORTES/GET -api-reportes-top-productos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00023365020751953125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/reportes/ventas-ubicacion",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-reportes-ventas-ubicacion.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/REPORTES/GET -api-reportes-ventas-ubicacion.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00023937225341796875,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "REPORTES",
+          "seq": 1
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    },
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS",
+      "name": "TRIGGERS",
+      "filename": "TRIGGERS",
+      "seq": 1,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "GET /api/productos/9001 → existencia",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-productos-9001 → existencia.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/GET -api-productos-9001 → existencia.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.000232696533203125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/productos/9002 → existencia",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-productos-9002 → existencia.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/GET -api-productos-9002 → existencia.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.000232696533203125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/reportes/saldos-pendientes",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-reportes-saldos-pendientes.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/GET -api-reportes-saldos-pendientes.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00024127960205078125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/ventas/9001",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-ventas-9001.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/GET -api-ventas-9001.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00021266937255859375,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/detalles",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-detalles.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/POST -api-detalles.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.000362396240234375,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/pagos 2",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-pagos 2.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/POST -api-pagos 2.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00022411346435546875,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/pagos",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-pagos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/POST -api-pagos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00032520294189453125,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/productos 2",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-productos 2.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/POST -api-productos 2.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0004291534423828125,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/productos",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-productos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/POST -api-productos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00042819976806640625,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/ventas",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-ventas.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/TRIGGERS/POST -api-ventas.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0005502700805664062,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "TRIGGERS",
+          "seq": 1
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    },
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/EMPLEADOS",
+      "name": "EMPLEADOS",
+      "filename": "EMPLEADOS",
+      "seq": 1,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "DELETE /api/empleados/9001",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "delete",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "DELETE -api-empleados-9001.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/EMPLEADOS/DELETE -api-empleados-9001.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00022411346435546875,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/empleados/1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-empleados-1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/EMPLEADOS/GET -api-empleados-1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00021266937255859375,
+          "depth": 2
+        },
+        {
+          "name": "GET api/empleados",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET api-empleados.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/EMPLEADOS/GET api-empleados.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0002079010009765625,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/empleados",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-empleados.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/EMPLEADOS/POST -api-empleados.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0005168914794921875,
+          "depth": 2
+        },
+        {
+          "name": "PUT /api/empleados/9001",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "put",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "PUT -api-empleados-9001.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/EMPLEADOS/PUT -api-empleados-9001.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0004968643188476562,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "EMPLEADOS",
+          "seq": 1
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    },
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/PRODUCTOS",
+      "name": "PRODUCTOS",
+      "filename": "PRODUCTOS",
+      "seq": 1,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "DELETE /api/productos/9001",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "delete",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "DELETE -api-productos-9001.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/PRODUCTOS/DELETE -api-productos-9001.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00022411346435546875,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/productos/1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-productos-1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/PRODUCTOS/GET -api-productos-1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00021266937255859375,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/productos",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-productos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/PRODUCTOS/GET -api-productos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00024318695068359375,
+          "depth": 2
+        },
+        {
+          "name": "POST /api/productos",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "post",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "POST -api-productos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/PRODUCTOS/POST -api-productos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0004949569702148438,
+          "depth": 2
+        },
+        {
+          "name": "PUT /api/productos/9001",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "put",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "PUT -api-productos-9001.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/PRODUCTOS/PUT -api-productos-9001.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00047397613525390625,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "PRODUCTOS",
+          "seq": 1
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    },
+    {
+      "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/DETALLES Y PAGOS",
+      "name": "DETALLES Y PAGOS",
+      "filename": "DETALLES Y PAGOS",
+      "seq": 1,
+      "collapsed": true,
+      "type": "folder",
+      "items": [
+        {
+          "name": "GET /api/detalles/1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-detalles-1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/DETALLES Y PAGOS/GET -api-detalles-1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00021076202392578125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/detalles?venta=1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-detalles-venta=1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/DETALLES Y PAGOS/GET -api-detalles-venta=1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00028228759765625,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/detalles",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-detalles.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/DETALLES Y PAGOS/GET -api-detalles.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00020694732666015625,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/pagos/1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-pagos-1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/DETALLES Y PAGOS/GET -api-pagos-1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00020503997802734375,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/pagos?venta=1",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-pagos-venta=1.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/DETALLES Y PAGOS/GET -api-pagos-venta=1.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.0002765655517578125,
+          "depth": 2
+        },
+        {
+          "name": "GET /api/pagos",
+          "type": "http",
+          "seq": 1,
+          "tags": [],
+          "request": {
+            "method": "get",
+            "url": "",
+            "params": [],
+            "headers": [],
+            "auth": {
+              "mode": "none"
+            },
+            "body": {
+              "mode": "none"
+            },
+            "script": {},
+            "vars": {},
+            "assertions": [],
+            "tests": "",
+            "docs": ""
+          },
+          "settings": {},
+          "filename": "GET -api-pagos.yml",
+          "pathname": "c:/Users/sebas/OneDrive/Escritorio/Bases1/-SBD1--202300540/[BD1]_Proyecto2_202300540/api/Proyecto_2_BASES1/DETALLES Y PAGOS/GET -api-pagos.yml",
+          "draft": null,
+          "partial": true,
+          "loading": false,
+          "size": 0.00020122528076171875,
+          "depth": 2
+        }
+      ],
+      "depth": 1,
+      "root": {
+        "meta": {
+          "name": "DETALLES Y PAGOS",
+          "seq": 1
+        },
+        "request": {
+          "headers": [],
+          "auth": {
+            "mode": "none",
+            "awsv4": null,
+            "basic": null,
+            "bearer": null,
+            "digest": null,
+            "ntlm": null,
+            "oauth2": null,
+            "wsse": null,
+            "apikey": null,
+            "akamaiEdgegrid": null
+          },
+          "script": {
+            "req": null,
+            "res": null
+          },
+          "vars": {
+            "req": [],
+            "res": []
+          },
+          "tests": null
+        },
+        "docs": null
+      }
+    }
+  ],
+  "environments": [],
+  "runtimeVariables": {},
+  "brunoConfig": {
+    "opencollection": "1.0.0",
+    "name": "Proyecto_2_BASES1",
+    "type": "collection",
+    "ignore": [
+      "node_modules",
+      ".git"
+    ],
+    "proxy": {
+      "inherit": true,
+      "config": {
+        "protocol": "http",
+        "hostname": "",
+        "port": "",
+        "auth": {
+          "username": "",
+          "password": ""
+        },
+        "bypassProxy": ""
+      }
+    }
+  },
+  "securityConfig": {},
+  "settingsSelectedTab": "overview",
+  "folderLevelSettingsSelectedTab": {},
+  "allTags": [],
+  "format": "yml",
+  "importedAt": 1791962244734,
+  "lastAction": null,
+  "root": {
+    "meta": null,
+    "request": null,
+    "docs": null
+  },
+  "isLoading": false,
+  "globalEnvironmentVariables": {},
+  "globalEnvSecrets": [],
+  "exportedAt": "2026-10-14T07:17:33.370Z",
+  "exportedUsing": "Bruno VS Code Extension"
+}

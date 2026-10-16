@@ -1,0 +1,25 @@
+info:
+  name: PUT /api/ventas/9101
+  type: http
+  seq: 1
+
+http:
+  method: PUT
+  url: http://localhost:3000/api/ventas/9101
+  body:
+    type: json
+    data: |-
+      {
+        "fecha": "2026-10-13T10:00:00",
+        "TIENDA_id_tienda": 1,
+        "CLIENTE_id_cliente": 1,
+        "EMPLEADO_id_empleado": 1,
+        "ESTADO_VENTA_id_estado_venta": 1
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
